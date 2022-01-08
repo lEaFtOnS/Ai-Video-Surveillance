@@ -1,0 +1,30 @@
+body{
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.Heading{
+    width: 100%;
+    margin: 0%;
+    font-size: large;
+
+}
+
+.start{
+    margin-top: 20px;
+}
+
+.CopyrightFooter{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+    
+}
+Canvas{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
